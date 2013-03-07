@@ -18,270 +18,302 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Alternative Title"
-msgstr ""
+msgstr "Alternative Title<br />(代替タイトル)"
 
 msgid ""
 "An alternative name for the resource. The distinction between titles and "
 "alternative titles is application-specific."
 msgstr ""
+"リソースの別名（TitleとAlternative Titleの違いはアプリケーション依存）"
 
 msgid "Abstract"
-msgstr ""
+msgstr "Abstract<br />(要約)"
 
 msgid "A summary of the resource."
-msgstr ""
+msgstr "リソースサマリー"
 
 msgid "Table Of Contents"
-msgstr ""
+msgstr "Table Of Contents<br />(目次)"
 
 msgid "A list of subunits of the resource."
-msgstr ""
+msgstr "リソースのサブユニットのリスト"
 
 msgid "Date Available"
-msgstr ""
+msgstr "Date Available<br />(利用可能日)"
 
 msgid ""
 "Date (often a range) that the resource became or will become available."
 msgstr ""
+"リソースが利用可能となる日（もしくは期間）"
 
 msgid "Date Created"
-msgstr ""
+msgstr "Date Created<br />(作成日)"
 
 msgid "Date of creation of the resource."
-msgstr ""
+msgstr "リソースが作成された日"
 
 msgid "Date Accepted"
-msgstr ""
+msgstr "Date Accepted<br />(受理日)"
 
 msgid ""
 "Date of acceptance of the resource. Examples of resources to which a Date "
 "Accepted may be relevant are a thesis (accepted by a university department) "
 "or an article (accepted by a journal)."
 msgstr ""
+"リソースが受理された日（大学の論文受理日や、雑誌の記事受付日など）"
 
 msgid "Date Copyrighted"
-msgstr ""
+msgstr "Date Copyrighted<br />(著作権日)"
 
 msgid "Date of copyright."
-msgstr ""
+msgstr "著作権で保護された日"
 
 msgid "Date Submitted"
-msgstr ""
+msgstr "Date Submitted<br />(提出日)"
 
 msgid ""
 "Date of submission of the resource. Examples of resources to which a Date "
 "Submitted may be relevant are a thesis (submitted to a university "
 "department) or an article (submitted to a journal)."
 msgstr ""
+"リソースが提出された日（大学の論文提出日や、雑誌の記事提出日など）"
 
 msgid "Date Issued"
-msgstr ""
+msgstr "Date Issued<br />(発行日)"
 
 msgid "Date of formal issuance (e.g., publication) of the resource."
-msgstr ""
+msgstr "リソースが正式に発行された日（出版日など）"
+
+msgid "Date Modified"
+msgstr "Date Modified<br />(更新日)"
 
 msgid "Date on which the resource was changed."
-msgstr ""
+msgstr "リソースが更新された日"
 
 msgid "Date Valid"
-msgstr ""
+msgstr "Date Valid<br />(有効日)"
 
 msgid "Date (often a range) of validity of a resource."
-msgstr ""
+msgstr "リソースが有効となる日（もしくは期間）"
 
 msgid "Access Rights"
-msgstr ""
+msgstr "Access Rights<br />(アクセス権)"
 
 msgid ""
 "Information about who can access the resource or an indication of its "
 "security status. Access Rights may include information regarding access or "
 "restrictions based on privacy, security, or other policies."
 msgstr ""
+"リソースにアクセスできる人、もしくはセキュリティ要件（プライバシー、"
+"セキュリティ、その他のポリシーにより許可または制限される）"
 
 msgid "License"
-msgstr ""
+msgstr "License<br />(ライセンス)"
 
 msgid ""
 "A legal document giving official permission to do something with the "
 "resource."
 msgstr ""
+"リソース利用の公式な許可を与える法的文書"
 
 msgid "Conforms To"
-msgstr ""
+msgstr "Conforms To<br />(準拠する)"
 
 msgid "An established standard to which the described resource conforms."
-msgstr ""
+msgstr "リソースが準拠する確立した標準"
 
 msgid "Has Format"
-msgstr ""
+msgstr "Has Format<br />(別フォーマットがある)"
 
 msgid ""
 "A related resource that is substantially the same as the pre-existing "
 "described resource, but in another format."
 msgstr ""
+"既存のリソースと実質的には同じだが別フォーマットである関連リソース"
 
 msgid "Has Part"
-msgstr ""
+msgstr "Has Part<br />(部分がある)"
 
 msgid ""
 "A related resource that is included either physically or logically in the "
 "described resource."
 msgstr ""
+"このリソースに物理的または論理的に含まれる関連リソース"
 
 msgid "Has Version"
-msgstr ""
+msgstr "Has Version<br />(改版がある)"
 
 msgid ""
 "A related resource that is a version, edition, or adaptation of the "
 "described resource."
 msgstr ""
+"このリソースの別バージョン・別版・改変版となる関連リソース"
 
 msgid "Is Format Of"
-msgstr ""
+msgstr "Is Format Of<br />(別フォーマットである)"
 
 msgid ""
 "A related resource that is substantially the same as the described resource,"
 " but in another format."
 msgstr ""
+"このリソースと実質的に同様であるが別フォーマットである関連リソース"
 
 msgid "Is Part Of"
-msgstr ""
+msgstr "Is Part Of<br />(一部である)"
 
 msgid ""
 "A related resource in which the described resource is physically or "
 "logically included."
 msgstr ""
+"このリソースが物理的または論理的に含まれる関連リソース"
 
 msgid "Is Referenced By"
-msgstr ""
+msgstr "Is Referenced By<br />(引用されている)"
 
 msgid ""
 "A related resource that references, cites, or otherwise points to the "
 "described resource."
 msgstr ""
+"このリソースを参照、引用あるいは指し示している関連リソース"
 
 msgid "Is Replaced By"
-msgstr ""
+msgstr "Is Replaced By<br />(置き換えられる)"
 
 msgid ""
 "A related resource that supplants, displaces, or supersedes the described "
 "resource."
-msgstr ""
+msgstr "このリソースに取って代わる、置き換わる、あるいは後任となる関連リソース"
+""
 
 msgid "Is Required By"
-msgstr ""
+msgstr "Is Required By<br />(必要とされる)"
 
 msgid ""
 "A related resource that requires the described resource to support its "
 "function, delivery, or coherence."
 msgstr ""
+"機能や動作、あるいは一貫性をサポートするには、このリソースを必要とする関連リソース"
 
 msgid "Is Version Of"
-msgstr ""
+msgstr "Is Version Of<br />(改版である)"
 
 msgid ""
 "A related resource of which the described resource is a version, edition, or"
 " adaptation. Changes in version imply substantive changes in content rather "
 "than differences in format."
 msgstr ""
+"このリソースが別バージョン・別版・改変版となる関連リソース"
+"（改変による変更はフォーマットの変更よりも実質的な変更を暗示している）"
 
 msgid "References"
-msgstr ""
+msgstr "References<br />(引用している)"
 
 msgid ""
 "A related resource that is referenced, cited, or otherwise pointed to by the"
 " described resource."
 msgstr ""
+"このリソースにより参照、引用あるいは指し示されている関連リソース"
 
 msgid "Replaces"
-msgstr ""
+msgstr "Replaces<br />(置き換え)"
 
 msgid ""
 "A related resource that is supplanted, displaced, or superseded by the "
 "described resource."
 msgstr ""
+"このリソースにより置き換えられた、あるいは取って代わられた関連リソース"
 
 msgid "Requires"
-msgstr ""
+msgstr "Requires<br />(必要である)"
 
 msgid ""
 "A related resource that is required by the described resource to support its"
 " function, delivery, or coherence."
 msgstr ""
+"機能や動作、あるいは一貫性をサポートするために、このリソースが必要とする関連リソース"
 
 msgid "Extent"
-msgstr ""
+msgstr "Extent<br />(範囲)"
 
 msgid "The size or duration of the resource."
-msgstr ""
+msgstr "リソースのサイズもしくは時間"
 
 msgid "Medium"
-msgstr ""
+msgstr "Medium<br />(媒体)"
 
 msgid "The material or physical carrier of the resource."
-msgstr ""
+msgstr "リソースの素材あるいは物理的搬送媒体"
+
+msgid "Bibliographic Citation"
+msgstr "Bibliographic Citation<br />(書誌的引用)"
 
 msgid ""
 "A bibliographic reference for the resource. Recommended practice is to "
 "include sufficient bibliographic detail to identify the resource as "
 "unambiguously as possible."
 msgstr ""
+"リソースの書誌的な参照（推奨案は、出来る限り曖昧さがなく、識別に充分な精度の"
+"書誌情報を含むこと）"
 
 msgid "Spatial Coverage"
-msgstr ""
+msgstr "Spatial Coverage<br />(空間的範囲)"
 
 msgid "Spatial characteristics of the resource."
-msgstr ""
+msgstr "リソースの空間的な特性"
 
 msgid "Temporal Coverage"
-msgstr ""
+msgstr "Temporal Coverage<br />(時間的範囲)"
 
 msgid "Temporal characteristics of the resource."
-msgstr ""
+msgstr "リソースの時間的な特性"
 
 msgid "Accrual Method"
-msgstr ""
+msgstr "Accrual Method<br />(発生方法)"
 
 msgid "The method by which items are added to a collection."
-msgstr ""
+msgstr "アイテムをコレクションに追加する方法"
 
 msgid "Accrual Periodicity"
-msgstr ""
+msgstr "Accrual Periodicity<br />(発生頻度)"
 
 msgid "The frequency with which items are added to a collection."
-msgstr ""
+msgstr "アイテムがコレクションに追加される頻度"
 
 msgid "Accrual Policy"
-msgstr ""
+msgstr "Accrual Policy<br />(発生方針)"
 
 msgid "The policy governing the addition of items to a collection."
-msgstr ""
+msgstr "アイテムがコレクションに追加される際のポリシー"
 
 msgid "Audience"
-msgstr ""
+msgstr "Audience<br />(オーディエンス)"
 
 msgid "A class of entity for whom the resource is intended or useful."
-msgstr ""
+msgstr "リソースが意図している（または有効な）対象者（人）のクラス"
 
 msgid "Audience Education Level"
-msgstr ""
+msgstr "Audience Education Level<br />(オーディエンスの教育レベル)"
 
 msgid ""
 "A class of entity, defined in terms of progression through an educational or"
 " training context, for which the described resource is intended."
 msgstr ""
+"このリソースが意図するもののために、教育（あるいは訓練）のレベルによって定義される"
+"エンティティのクラス"
 
 msgid "Mediator"
-msgstr ""
+msgstr "Mediator<br />(仲介者)"
 
 msgid ""
 "An entity that mediates access to the resource and for whom the resource is "
 "intended or useful. In an educational context, a mediator might be a parent,"
 " teacher, teaching assistant, or care-giver."
 msgstr ""
+"このリソース、あるいはこのリソースが意図した（もしくは有用な）人へのアクセスを"
+"仲介するエンティティ（教育の文脈では親や先生、助手、世話人など）"
 
 msgid "Instructional Method"
-msgstr ""
+msgstr "Instructional Method<br />(指導法)"
 
 msgid ""
 "A process, used to engender knowledge, attitudes and skills, that the "
@@ -293,9 +325,14 @@ msgid ""
 "instruction and learning processes from planning and implementation through "
 "evaluation and feedback."
 msgstr ""
+"知識や考え方、あるいはスキルを生むために利用し、このリソースがそれをサポートする"
+"ように設計された手法（説明素材を示したり、アクティビティを行ったり、学習者同士"
+"あるいは学習者から先生へ教えたり、グループや個々の学習レベルを測定するメカニズム"
+"を提供したりし、説明のあらゆる側面、評価やフィードバックを通じた実施計画から学ぶ"
+"プロセスなどを含む）"
 
 msgid "Provenance"
-msgstr ""
+msgstr "Provenance<br />(来歴)"
 
 msgid ""
 "A statement of any changes in ownership and custody of the resource since "
@@ -303,12 +340,15 @@ msgid ""
 "interpretation. The statement may include a description of any changes "
 "successive custodians made to the resource."
 msgstr ""
+"信頼性・整合性・解釈のために非常に重要である、リソースが制作されて以来の"
+"所有権やリソースの管理に関するあらゆる変更を表す文書（この文書はリソースに"
+"あわせて作られ、管理者の一連のあらゆる変更に関する説明が含まれる）"
 
 msgid "Rights Holder"
-msgstr ""
+msgstr "Rights Holder<br />(権利保持者)"
 
 msgid "A person or organization owning or managing rights over the resource."
-msgstr ""
+msgstr "リソースの権利を保持あるいは管理する人や組織"
 
 #: DublinCoreExtendedPlugin.php:82
 #, php-format
@@ -316,3 +356,5 @@ msgid ""
 "%sWarning%s: This will remove all the Dublin Core elements added by this "
 "plugin and permanently delete all element texts entered in those fields.%s"
 msgstr ""
+"%s警告%s: この操作を行うと、このプラグインによって追加された全てのDublin Core"
+"要素が削除され、これらのフィールドに登録された要素のテキストは完全に削除されます。%s"
