@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Omeka\n"
 "Report-Msgid-Bugs-To: https://github.com/omeka/Omeka/issues\n"
 "POT-Creation-Date: 2012-12-17 21:49-0500\n"
-"PO-Revision-Date: 2013-03-07 16:14+0000\n"
+"PO-Revision-Date: 2013-03-29 15:09+0000\n"
 "Last-Translator: Masaki Hidano <MasaGon@info-lounge.jp>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/omeka/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -79,9 +79,6 @@ msgstr "発行日 (Date Issued)"
 
 msgid "Date of formal issuance (e.g., publication) of the resource."
 msgstr "リソースが正式に発行された日（出版日など）"
-
-msgid "Date Modified"
-msgstr "更新日 (Date Modified)"
 
 msgid "Date on which the resource was changed."
 msgstr "リソースが更新された日"
@@ -223,9 +220,6 @@ msgstr "媒体 (Medium)"
 
 msgid "The material or physical carrier of the resource."
 msgstr "リソースの素材あるいは物理的搬送媒体"
-
-msgid "Biblographic Citation"
-msgstr "書誌参照 (Biblographic Citation)"
 
 msgid ""
 "A bibliographic reference for the resource. Recommended practice is to "
