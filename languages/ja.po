@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Alternative Title"
-msgstr "Alternative Title (代替タイトル)"
+msgstr "代替タイトル (Alternative Title)"
 
 msgid ""
 "An alternative name for the resource. The distinction between titles and "
@@ -26,32 +26,32 @@ msgid ""
 msgstr "リソースの別名（TitleとAlternative Titleの違いはアプリケーション依存）"
 
 msgid "Abstract"
-msgstr "Abstract (要約)"
+msgstr "要約 (Abstract)"
 
 msgid "A summary of the resource."
 msgstr "リソースサマリー"
 
 msgid "Table Of Contents"
-msgstr "Table Of Contents (目次)"
+msgstr "目次 (Table Of Contents)"
 
 msgid "A list of subunits of the resource."
 msgstr "リソースのサブユニットのリスト"
 
 msgid "Date Available"
-msgstr "Date Available (利用可能日)"
+msgstr "利用可能日 (Date Available)"
 
 msgid ""
 "Date (often a range) that the resource became or will become available."
 msgstr "リソースが利用可能となる日（もしくは期間）"
 
 msgid "Date Created"
-msgstr "Date Created (作成日)"
+msgstr "作成日 (Date Created)"
 
 msgid "Date of creation of the resource."
 msgstr "リソースが作成された日"
 
 msgid "Date Accepted"
-msgstr "Date Accepted (受理日)"
+msgstr "受理日 (Date Accepted)"
 
 msgid ""
 "Date of acceptance of the resource. Examples of resources to which a Date "
@@ -60,13 +60,13 @@ msgid ""
 msgstr "リソースが受理された日（大学の論文受理日や、雑誌の記事受付日など）"
 
 msgid "Date Copyrighted"
-msgstr "Date Copyrighted (著作権日)"
+msgstr "著作権日 (Date Copyrighted)"
 
 msgid "Date of copyright."
 msgstr "著作権で保護された日"
 
 msgid "Date Submitted"
-msgstr "Date Submitted (提出日)"
+msgstr "提出日 (Date Submitted)"
 
 msgid ""
 "Date of submission of the resource. Examples of resources to which a Date "
@@ -75,25 +75,25 @@ msgid ""
 msgstr "リソースが提出された日（大学の論文提出日や、雑誌の記事提出日など）"
 
 msgid "Date Issued"
-msgstr "Date Issued (発行日)"
+msgstr "発行日 (Date Issued)"
 
 msgid "Date of formal issuance (e.g., publication) of the resource."
 msgstr "リソースが正式に発行された日（出版日など）"
 
 msgid "Date Modified"
-msgstr "Date Modified (更新日)"
+msgstr "更新日 (Date Modified)"
 
 msgid "Date on which the resource was changed."
 msgstr "リソースが更新された日"
 
 msgid "Date Valid"
-msgstr "Date Valid (有効日)"
+msgstr "有効日 (Date Valid)"
 
 msgid "Date (often a range) of validity of a resource."
 msgstr "リソースが有効となる日（もしくは期間）"
 
 msgid "Access Rights"
-msgstr "Access Rights (アクセス権)"
+msgstr "アクセス権 (Access Rights)"
 
 msgid ""
 "Information about who can access the resource or an indication of its "
@@ -102,7 +102,7 @@ msgid ""
 msgstr "リソースにアクセスできる人、もしくはセキュリティ要件（プライバシー、セキュリティ、その他のポリシーにより許可または制限される）"
 
 msgid "License"
-msgstr "License (ライセンス)"
+msgstr "ライセンス (License)"
 
 msgid ""
 "A legal document giving official permission to do something with the "
@@ -110,13 +110,13 @@ msgid ""
 msgstr "リソース利用の公式な許可を与える法的文書"
 
 msgid "Conforms To"
-msgstr "Conforms To (準拠する)"
+msgstr "準拠する (Conforms To)"
 
 msgid "An established standard to which the described resource conforms."
 msgstr "リソースが準拠する確立した標準"
 
 msgid "Has Format"
-msgstr "Has Format (別フォーマットがある)"
+msgstr "別フォーマットがある (Has Format)"
 
 msgid ""
 "A related resource that is substantially the same as the pre-existing "
@@ -124,7 +124,7 @@ msgid ""
 msgstr "既存のリソースと実質的には同じだが別フォーマットである関連リソース"
 
 msgid "Has Part"
-msgstr "Has Part (部分がある)"
+msgstr "部分がある (Has Part)"
 
 msgid ""
 "A related resource that is included either physically or logically in the "
@@ -132,7 +132,7 @@ msgid ""
 msgstr "このリソースに物理的または論理的に含まれる関連リソース"
 
 msgid "Has Version"
-msgstr "Has Version (改版がある)"
+msgstr "改版がある (Has Version)"
 
 msgid ""
 "A related resource that is a version, edition, or adaptation of the "
@@ -140,7 +140,7 @@ msgid ""
 msgstr "このリソースの別バージョン・別版・改変版となる関連リソース"
 
 msgid "Is Format Of"
-msgstr "Is Format Of (別フォーマットである)"
+msgstr "別フォーマットである (Is Format Of)"
 
 msgid ""
 "A related resource that is substantially the same as the described resource,"
@@ -148,7 +148,7 @@ msgid ""
 msgstr "このリソースと実質的に同様であるが別フォーマットである関連リソース"
 
 msgid "Is Part Of"
-msgstr "Is Part Of (一部である)"
+msgstr "一部である (Is Part Of)"
 
 msgid ""
 "A related resource in which the described resource is physically or "
@@ -156,7 +156,7 @@ msgid ""
 msgstr "このリソースが物理的または論理的に含まれる関連リソース"
 
 msgid "Is Referenced By"
-msgstr "Is Referenced By (引用されている)"
+msgstr "引用されている (Is Referenced By)"
 
 msgid ""
 "A related resource that references, cites, or otherwise points to the "
@@ -164,7 +164,7 @@ msgid ""
 msgstr "このリソースを参照、引用あるいは指し示している関連リソース"
 
 msgid "Is Replaced By"
-msgstr "Is Replaced By (置き換えられる)"
+msgstr "置き換えられる (Is Replaced By)"
 
 msgid ""
 "A related resource that supplants, displaces, or supersedes the described "
@@ -172,7 +172,7 @@ msgid ""
 msgstr "このリソースに取って代わる、置き換わる、あるいは後任となる関連リソース"
 
 msgid "Is Required By"
-msgstr "Is Required By (必要とされる)"
+msgstr "必要とされる (Is Required By)"
 
 msgid ""
 "A related resource that requires the described resource to support its "
@@ -180,7 +180,7 @@ msgid ""
 msgstr "機能や動作、あるいは一貫性をサポートするには、このリソースを必要とする関連リソース"
 
 msgid "Is Version Of"
-msgstr "Is Version Of (改版である)"
+msgstr "改版である (Is Version Of)"
 
 msgid ""
 "A related resource of which the described resource is a version, edition, or"
@@ -189,7 +189,7 @@ msgid ""
 msgstr "このリソースが別バージョン・別版・改変版となる関連リソース（改変による変更はフォーマットの変更よりも実質的な変更を暗示している）"
 
 msgid "References"
-msgstr "References (引用している)"
+msgstr "引用している (References)"
 
 msgid ""
 "A related resource that is referenced, cited, or otherwise pointed to by the"
@@ -197,7 +197,7 @@ msgid ""
 msgstr "このリソースにより参照、引用あるいは指し示されている関連リソース"
 
 msgid "Replaces"
-msgstr "Replaces (置き換え)"
+msgstr "置き換え (Replaces)"
 
 msgid ""
 "A related resource that is supplanted, displaced, or superseded by the "
@@ -205,7 +205,7 @@ msgid ""
 msgstr "このリソースにより置き換えられた、あるいは取って代わられた関連リソース"
 
 msgid "Requires"
-msgstr "Requires (必要である)"
+msgstr "必要である (Requires)"
 
 msgid ""
 "A related resource that is required by the described resource to support its"
@@ -213,19 +213,19 @@ msgid ""
 msgstr "機能や動作、あるいは一貫性をサポートするために、このリソースが必要とする関連リソース"
 
 msgid "Extent"
-msgstr "Extent (範囲)"
+msgstr "範囲 (Extent)"
 
 msgid "The size or duration of the resource."
 msgstr "リソースのサイズもしくは時間"
 
 msgid "Medium"
-msgstr "Medium (媒体)"
+msgstr "媒体 (Medium)"
 
 msgid "The material or physical carrier of the resource."
 msgstr "リソースの素材あるいは物理的搬送媒体"
 
 msgid "Biblographic Citation"
-msgstr "Biblographic Citation (書誌参照)"
+msgstr "書誌参照 (Biblographic Citation)"
 
 msgid ""
 "A bibliographic reference for the resource. Recommended practice is to "
@@ -234,43 +234,43 @@ msgid ""
 msgstr "リソースの書誌的な参照（推奨案は、出来る限り曖昧さがなく、識別に充分な精度の書誌情報を含むこと）"
 
 msgid "Spatial Coverage"
-msgstr "Spatial Coverage (空間的範囲)"
+msgstr "空間的範囲 (Spatial Coverage)"
 
 msgid "Spatial characteristics of the resource."
 msgstr "リソースの空間的な特性"
 
 msgid "Temporal Coverage"
-msgstr "Temporal Coverage (時間的範囲)"
+msgstr "時間的範囲 (Temporal Coverage)"
 
 msgid "Temporal characteristics of the resource."
 msgstr "リソースの時間的な特性"
 
 msgid "Accrual Method"
-msgstr "Accrual Method (発生方法)"
+msgstr "発生方法 (Accrual Method)"
 
 msgid "The method by which items are added to a collection."
 msgstr "アイテムをコレクションに追加する方法"
 
 msgid "Accrual Periodicity"
-msgstr "Accrual Periodicity (発生頻度)"
+msgstr "発生頻度 (Accrual Periodicity)"
 
 msgid "The frequency with which items are added to a collection."
 msgstr "アイテムがコレクションに追加される頻度"
 
 msgid "Accrual Policy"
-msgstr "Accrual Policy (発生方針)"
+msgstr "発生方針 (Accrual Policy)"
 
 msgid "The policy governing the addition of items to a collection."
 msgstr "アイテムがコレクションに追加される際のポリシー"
 
 msgid "Audience"
-msgstr "Audience (オーディエンス)"
+msgstr "オーディエンス (Audience)"
 
 msgid "A class of entity for whom the resource is intended or useful."
 msgstr "リソースが意図している（または有効な）対象者（人）のクラス"
 
 msgid "Audience Education Level"
-msgstr "Audience Education Level (オーディエンスの教育レベル)"
+msgstr "オーディエンスの教育レベル (Audience Education Level)"
 
 msgid ""
 "A class of entity, defined in terms of progression through an educational or"
@@ -278,7 +278,7 @@ msgid ""
 msgstr "このリソースが意図するもののために、教育（あるいは訓練）のレベルによって定義されるエンティティのクラス"
 
 msgid "Mediator"
-msgstr "Mediator (仲介者)"
+msgstr "仲介者 (Mediator)"
 
 msgid ""
 "An entity that mediates access to the resource and for whom the resource is "
@@ -287,7 +287,7 @@ msgid ""
 msgstr "このリソース、あるいはこのリソースが意図した（もしくは有用な）人へのアクセスを仲介するエンティティ（教育の文脈では親や先生、助手、世話人など）"
 
 msgid "Instructional Method"
-msgstr "Instructional Method (指導法)"
+msgstr "指導法 (Instructional Method)"
 
 msgid ""
 "A process, used to engender knowledge, attitudes and skills, that the "
@@ -301,7 +301,7 @@ msgid ""
 msgstr "知識や考え方、あるいはスキルを生むために利用し、このリソースがそれをサポートするように設計された手法（説明素材を示したり、アクティビティを行ったり、学習者同士あるいは学習者から先生へ教えたり、グループや個々の学習レベルを測定するメカニズムを提供したりし、説明のあらゆる側面、評価やフィードバックを通じた実施計画から学ぶプロセスなどを含む）"
 
 msgid "Provenance"
-msgstr "Provenance (来歴)"
+msgstr "来歴 (Provenance)"
 
 msgid ""
 "A statement of any changes in ownership and custody of the resource since "
@@ -311,7 +311,7 @@ msgid ""
 msgstr "信頼性・整合性・解釈のために非常に重要である、リソースが制作されて以来の所有権やリソースの管理に関するあらゆる変更を表す文書（この文書はリソースにあわせて作られ、管理者の一連のあらゆる変更に関する説明が含まれる）"
 
 msgid "Rights Holder"
-msgstr "Rights Holder (権利保持者)"
+msgstr "権利保持者 (Rights Holder)"
 
 msgid "A person or organization owning or managing rights over the resource."
 msgstr "リソースの権利を保持あるいは管理する人や組織"
